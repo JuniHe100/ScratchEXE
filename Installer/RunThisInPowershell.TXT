@@ -1,0 +1,1 @@
+powershell -File "C:\Users\trevo\Desktop\ScratchEXE\ScratchEXE-Installer.ps1"
